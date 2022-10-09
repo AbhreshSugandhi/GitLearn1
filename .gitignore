@@ -1,4 +1,5 @@
 *.xlsx
+*.pdf
 
 # Compiled class file
 *.class
